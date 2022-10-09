@@ -1,6 +1,6 @@
 # HW5 for fall 22
 
-Make at least 4 commits and upload a link to your repo to canvas.
+Upload a link to your repo to canvas.
 
 * git status (see what files have been changed and which are staged)
 * git add hw5.py (add the file to the staging area for a commit)
